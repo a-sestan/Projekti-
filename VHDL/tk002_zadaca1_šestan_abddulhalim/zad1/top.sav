@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.121 (w)1999-2024 BSI
+[*] Wed Jun 18 12:52:52 2025
+[*]
+[dumpfile] "/home/abdulhalim/SS-vhd/lv1/z1/top_tb.vcd"
+[dumpfile_mtime] "Wed Jun 18 12:51:21 2025"
+[dumpfile_size] 15288
+[savefile] "/home/abdulhalim/SS-vhd/lv1/z1/top.sav"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-26.000000 57700000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top_tb.
+[sst_width] 273
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 157
+@28
+top_tb.fclk
+[color] 5
+top_tb.insig
+@22
+[color] 2
+top_tb.avrval[7:0]
+@23
+[color] 3
+top_tb.perval[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
